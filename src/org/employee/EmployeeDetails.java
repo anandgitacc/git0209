@@ -14,10 +14,15 @@ public class EmployeeDetails {
 		
 		System.out.println("Employee Mobile : 8939278836");
 	}
-	
+	private void empAdd() {
+		System.out.println("Chennai-Omr");
+	}
 	private void empId() {
 		System.out.println("employee id : 1234");
 	}
+//<<<<<<< HEAD
+//=======
+//>>>>>>> 73456a789d4a2a1a5e0dddaf8ae20b3e576b1673
 	
 	//               main method
 	public static void main(String[] args) {
